@@ -2,7 +2,9 @@ import React from 'react'
 
 const MainComp = () => {
   return (
-    <div>MainComp</div>
+   <section>
+    MainCompp
+   </section>
   )
 }
 
