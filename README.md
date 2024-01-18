@@ -1,3 +1,3 @@
-An Ai-prompt tool made to help users generate better prompts for ai. Tech stack includes next js, mongodb, bcrypt. Project still in progresss. currently on hold 
+An Ai-prompt tool made to help users generate better prompts for ai. Tech stack includes next js, mongodb, bcrypt. Project still in progresss. currently on hold .....
 
 
